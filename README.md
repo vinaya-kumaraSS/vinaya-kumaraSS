@@ -1,28 +1,115 @@
-<p>Hello world</p>
-<h1 align="center">Hi 👋, I'm Vinayakumara S S</h1>
-<h3 align="center">A passionate Data Science and Artificial Intelligence developer from India</h3>
-<img align-"right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaya-kumarass&label=Profile%20views&color=0e75b6&style=flat" alt="vinaya-kumarass" /> </p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
+    <link rel="stylesheet" href="boostrap/css/font.css">
+    <link rel="stylesheet" href="boostrap/css/bootstrap.css">
+    <link rel="stylesheet" href="boostrap/css/mdb.css">
+    <link rel="stylesheet" href="boostrap/css/style.css">
+    <style>
+        html{
+            scroll-behavior: smooth;
+        }
+        body{
+            background-color: black;
+        }
+        #cont_header{
+            color: rgb(220, 189, 250);
+            text-align: center;
+            font-family: 'Times New Roman', Times, serif;
+        }
+        #hr{
+            margin-top: 0px;
+            height: 1px;
+            background-color: rgb(220, 189, 250);
+        }
+        #container {
+            max-width: 800px;
+            background-color: black;
+            margin: 0 auto;
+            color: rgb(220, 189, 250);
+            box-shadow: rgb(255, 255, 255) 0px 1px 4px, rgb(255, 255, 255) 0px 0px 0px 1px;
+            text-align: center;
+    }
+        #skill_container{
+            height: 100px;
+            width: auto;
+            box-shadow: rgb(220, 189, 250)  0px 3px 8px;        
+        }
+        #coding_profile_logo{
+            height: 70px;
+            width: 80px;
+        }
+        ul {
+            list-style: none; /* Remove default bullets */
+            display: flex; /* Display list items in a row */
+            justify-content: center; /* Center the items horizontally */
+            align-items: center; /* Center the items vertically */
+        }
+        li {
+            margin-top: 15px;
+            margin-right: 40px; /* Add some spacing between the images */
+        }
+        li img {
+            display: block; /* Remove any default inline spacing */
+            max-width: 100px; /* Limit the maximum width of images */
+            height: auto; /* Maintain the aspect ratio of images */
+        }
+        </style>
+</head>
+<body>
+    <!---ABOUT ME-->
+    <div class="nav">
 
-<p align="left"> <a href="https://twitter.com/vinayakumar" target="blank"><img src="https://img.shields.io/twitter/follow/vinayakumar?logo=twitter&style=for-the-badge" alt="vinayakumar" /></a> </p>
+    </div>
+    <hr id="hr"></hr>
+    <h3 class="text-center" id="cont_header">ABOUT ME</h3>
+        <hr id="hr" style="width: 100px;"></hr>
+    <div class="card" id="container">
+        <p>I am currently pursuing my Bachelor of Engineering specialized in Computer Science and Engineering with great interest in Data Structures, Algorithms and Optimization.I am a competitive programming enthusiast very interested in solving varieties of problem statements in an optimized way.I like and enjoy learning new technologies and take up challenges with creative problem solving abilities.Always ready to learn new things and apply them in my project.A good team player with an open mind and likes to brainstorm upon a problem to find the most optimal solution.</p>
+    </div>
+    <!-- HTML !-->
+    <p class="text-center mt-4"><a href="#"><button class="button-85" role="button">RESUME</button></a><a href="https://www.linkedin.com/in/vinayakumara-s-s-01372a249/"><i class="fab fa-brands fa-linkedin fa-xl pl-3"></i></a></p>
+    <!---END ABOUT ME-->
 
-- 💬 Ask me about **Front End. Backend**
+    <!---PROJECTS-->
+    <h3 class="text-center mt-5" id="cont_header">PROJECTS</h3>
+    <hr id="hr" style="width: 100px;"></hr>
+    <!---END PROJECTS-->
+    <!---ACHIEVEMENTS-->
+    <h3 class="text-center mt-5" id="cont_header">ACHIEVEMENTS</h3>
+    <hr id="hr" style="width: 175px;"></hr>
+    <!---END ACHIEVEMENTS-->
 
-- 📫 How to reach me **vinaykumarss904@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vinayakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinayakumar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vinayakumara-s-s-01372a249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinayakumara-s-s-01372a249/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/vinays.shiggavkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/vinays.shiggavkar" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_vinay_ss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_vinay_ss/" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+    <!---CODING PROFILES-->
+    <h3 class="text-center mt-5" id="cont_header">CODING PROFILES
+    </h3>
+    <hr id="hr" style="width: 200px;"></hr>
+    <div class="container mt-5" id="skill_container">
+        <ul>
+            <a href="https://github.com/vinaya-kumaraSS"><li><img src="images/github.png" alt="" id="coding_profile_logo"></li></a>
+            <a href=""><li><img src="images/Hacker rank.png" alt="" id="coding_profile_logo"></li></a>
+            <a href="https://leetcode.com/Vinay_88/"><li><img src="images/leetcode.png" alt="" id="coding_profile_logo"></li></a>
+            <a href=""><li><img src="images/leetcode.png" alt="" id="coding_profile_logo"></li></a>
+        </ul>
+    </div>
+    <!---END CODING PROFILES-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinaya-kumarass&show_icons=true&locale=en&layout=compact" alt="vinaya-kumarass" /></p>
+    <!--SKILLS--->
+    <h3 class="text-center mt-5" id="cont_header">SKILLS</h3>
+    <hr id="hr" style="width: 70px;"></hr>
+    <!---END SKILLS-->
+    
+    <!--CERTIFICATION--->
+    <h3 class="text-center mt-5" id="cont_header">CERTIFICATION</h3>
+    <hr id="hr" style="width: 180px;"></hr>
+    <!--END CERTIFICATION--->
+    
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinaya-kumarass&show_icons=true&locale=en" alt="vinaya-kumarass" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinaya-kumarass&" alt="vinaya-kumarass" /></p>
+</body>
+</html>
