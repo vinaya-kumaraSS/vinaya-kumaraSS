@@ -26,6 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinaya-kumarass&show_icons=true&locale=en" alt="vinaya-kumarass" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinaya-kumarass&" alt="vinaya-kumarass" /></p>
-<iframe>
-  <iframe src="[url](https://www.youtube.com/watch?v=K8gjSwc3Rlo&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=92)https://www.youtube.com/watch?v=K8gjSwc3Rlo&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&index=92" title="description"></iframe>
-</iframe>
