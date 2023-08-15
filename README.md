@@ -1,67 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
-    <link rel="stylesheet" href="boostrap/css/font.css">
-    <link rel="stylesheet" href="boostrap/css/bootstrap.css">
-    <link rel="stylesheet" href="boostrap/css/mdb.css">
-    <link rel="stylesheet" href="boostrap/css/style.css">
-    <style>
-        html{
-            scroll-behavior: smooth;
-        }
-        body{
-            background-color: black;
-        }
-        #cont_header{
-            color: rgb(220, 189, 250);
-            text-align: center;
-            font-family: 'Times New Roman', Times, serif;
-        }
-        #hr{
-            margin-top: 0px;
-            height: 1px;
-            background-color: rgb(220, 189, 250);
-        }
-        #container {
-            max-width: 800px;
-            background-color: black;
-            margin: 0 auto;
-            color: rgb(220, 189, 250);
-            box-shadow: rgb(255, 255, 255) 0px 1px 4px, rgb(255, 255, 255) 0px 0px 0px 1px;
-            text-align: center;
-    }
-        #skill_container{
-            height: 100px;
-            width: auto;
-            box-shadow: rgb(220, 189, 250)  0px 3px 8px;        
-        }
-        #coding_profile_logo{
-            height: 70px;
-            width: 80px;
-        }
-        ul {
-            list-style: none; /* Remove default bullets */
-            display: flex; /* Display list items in a row */
-            justify-content: center; /* Center the items horizontally */
-            align-items: center; /* Center the items vertically */
-        }
-        li {
-            margin-top: 15px;
-            margin-right: 40px; /* Add some spacing between the images */
-        }
-        li img {
-            display: block; /* Remove any default inline spacing */
-            max-width: 100px; /* Limit the maximum width of images */
-            height: auto; /* Maintain the aspect ratio of images */
-        }
-        </style>
-</head>
-<body>
-    <!---ABOUT ME-->
+
     <div class="nav">
 
     </div>
@@ -109,7 +46,3 @@
     <h3 class="text-center mt-5" id="cont_header">CERTIFICATION</h3>
     <hr id="hr" style="width: 180px;"></hr>
     <!--END CERTIFICATION--->
-    
-
-</body>
-</html>
