@@ -10,13 +10,15 @@
 
 <div align="center">
  
- 🚀 Passionate about technology and innovation, I'm a Bachelor of Engineering student at Alva’s Institute of Engineering and Technology, graduating in 2025.**
+ 🚀 Passionate about technology and innovation, I'm a Bachelor of Engineering student at Alva’s Institute of Engineering and Technology, graduating in 2025.
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🛠️ From mastering Data Structures to managing databases, I strive to blend theory with practical insight.
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+🖥️ Skilled in C and Core Java, with hands-on experience in HTML5, CSS3, JavaScript, and Flutter.
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+🌐 I've honed soft skills like communication, leadership, and teamwork through programs like the Naandi Foundation’s Employability Skill Programme.
+
+💬 Ask me about: Node.js, Flutter, or any related technologies I'm exploring.
 
  </div>
  
