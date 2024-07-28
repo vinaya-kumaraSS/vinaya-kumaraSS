@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🚀 Passionate about technology and innovation, I'm a Bachelor of Engineering student at Alva’s Institute of Engineering and Technology, graduating in 2025.**
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
