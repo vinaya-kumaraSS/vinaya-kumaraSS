@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<body style="background-image: url('your-background-image-url.jpg'); background-size: cover; background-repeat: no-repeat; background-attachment: fixed;">
+<body style="background-image: url('https://tse3.mm.bing.net/th?id=OIP.DrQ9r0UM3pZwCrGXo-8d6QHaEI&pid=Api&P=0&h=180'); background-size: cover; background-repeat: no-repeat; background-attachment: fixed;">
     <h1 align="center">
         <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vinay!;" />
     </h1>
