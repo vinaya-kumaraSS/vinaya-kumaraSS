@@ -73,7 +73,7 @@
 <br/>
 
 <div align="center">
-<a href='https://vinaya-kumarass.github.io/projects.github.io/VinayakumaraSS/' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://vinaya-kumarass.github.io/projects.github.io/VinayakumaraSS/' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://vinaya-kumarass.github.io/projects.github.io/VinayakumaraSS/' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://static.vecteezy.com/system/resources/previews/011/054/733/non_2x/portfolio-button-portfolio-speech-bubble-portfolio-colorful-web-banner-illustration-vector.jpg' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 <br/>
