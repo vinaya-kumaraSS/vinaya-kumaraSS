@@ -78,6 +78,8 @@
     <h2>🏆 Competitive Programming 🏆</h2>
     <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
         <img src="https://github.com/vinaya-kumaraSS/vinaya-kumaraSS/blob/main/postman%20API%20badge.png" alt="CodeChef Badge 3" width="150"/>
+      <img src="https://github.com/vinaya-kumaraSS/vinaya-kumaraSS/blob/main/Screenshot%202024-08-05%20232650.png" alt="CodeChef Badge 2" width="150"/>
+      <img src="https://github.com/vinaya-kumaraSS/vinaya-kumaraSS/blob/main/Screenshot%202024-08-05%20232704.png" alt="CodeChef Badge 2" width="150"/>
         <img src="https://github.com/vinaya-kumaraSS/vinaya-kumaraSS/blob/main/Screenshot%202024-08-05%20211646.png" alt="CodeChef Badge 3" width="150"/>
             <img src="https://github.com/vinaya-kumaraSS/vinaya-kumaraSS/blob/main/CodeChefBadge.png" alt="CodeChef Badge 1" width="150"/>
             <img src="https://github.com/vinaya-kumaraSS/vinaya-kumaraSS/blob/main/CodeChefBadge%20(1).png" alt="CodeChef Badge 2" width="150"/>
