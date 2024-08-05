@@ -15,9 +15,10 @@
     🚀 Passionate software developer from India, graduating in 2025.
     <br/><br/>
     🛠️ Skilled in C, Core Java, HTML5, CSS3, JavaScript, and Flutter. Experienced with Data Structures, databases, and soft skills from the Naandi Foundation’s Employability Skill Programme.
-    <br/><br/><br>
+    <br/><br/>
     💬 Ask me about: Node.js, Flutter, or related technologies.
 </div>
+<br>
 
 <div align="center"> 
     <a href="mailto:vinaykumarss904@gmail.com">
