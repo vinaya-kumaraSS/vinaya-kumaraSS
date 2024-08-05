@@ -79,7 +79,7 @@
     <h2>🏆 Competitive Programming 🏆</h2>
     <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
         <a href="https://www.codechef.com/users/salesp07" target="_blank">
-            <img src="https://www.codechef.com/images/CC-Logo.png" alt="CodeChef Badge 1" width="150"/>
+            <img src="https://github.com/vinaya-kumaraSS/vinaya-kumaraSS/blob/main/CodeChefBadge.png" alt="CodeChef Badge 1" width="150"/>
         </a>
         <a href="https://www.codechef.com/users/salesp07" target="_blank">
             <img src="https://cdn.codechef.com/sites/all/themes/abessive/images/codechef-logo.png" alt="CodeChef Badge 2" width="150"/>
