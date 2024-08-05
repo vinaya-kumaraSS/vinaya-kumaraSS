@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/KIRAN-KUMAR-K3/badges/blob/main/BANNER7.png" alt="Logo">
+  <img src="https://github.com/vinaya-kumaraSS/vinaya-kumaraSS/blob/main/1715454739550.jpeg" alt="Logo">
 </div>
 
 <body style="background-image: url('https://tse3.mm.bing.net/th?id=OIP.DrQ9r0UM3pZwCrGXo-8d6QHaEI&pid=Api&P=0&h=180'); background-size: cover; background-repeat: no-repeat; background-attachment: fixed;">
