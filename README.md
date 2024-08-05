@@ -31,10 +31,10 @@
     <a href="https://vinaya-kumarass.github.io/projects.github.io/VinayakumaraSS/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
     </a>
-    <a href="https://www.codechef.com/users/salesp07" target="_blank">
+    <a href="https://www.codechef.com/users/ssvinay" target="_blank">
         <img src="https://img.shields.io/badge/CodeChef-5C5C5C?style=for-the-badge&logo=codechef&logoColor=white" />
     </a>
-    <a href="https://leetcode.com/salesp07/" target="_blank">
+    <a href="https://leetcode.com/u/Vinay_88/" target="_blank">
         <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
     </a>
 </div>
