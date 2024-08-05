@@ -10,33 +10,31 @@
 <br/>
 
 <div align="center">
- 
- 🚀 Passionate about technology and innovation, I'm a Bachelor of Engineering student at Alva’s Institute of Engineering and Technology, graduating in 2025.
- 
- 🛠️ From mastering Data Structures to managing databases, I strive to blend theory with practical insight.
-
-🖥️ Skilled in C and Core Java, with hands-on experience in HTML5, CSS3, JavaScript, and Flutter.
-
-🌐 I've honed soft skills like communication, leadership, and teamwork through programs like the Naandi Foundation’s Employability Skill Programme.
-
-💬 Ask me about: Node.js, Flutter, or any related technologies I'm exploring.
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:vinaykumarss904@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/vinayakumarass/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://vinaya-kumarass.github.io/projects.github.io/VinayakumaraSS/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+    🚀 Passionate about technology and innovation, I'm a Bachelor of Engineering student at Alva’s Institute of Engineering and Technology, graduating in 2025.
+    <br/><br/>
+    🛠️ From mastering Data Structures to managing databases, I strive to blend theory with practical insight.
+    <br/><br/>
+    🖥️ Skilled in C and Core Java, with hands-on experience in HTML5, CSS3, JavaScript, and Flutter.
+    <br/><br/>
+    🌐 I've honed soft skills like communication, leadership, and teamwork through programs like the Naandi Foundation’s Employability Skill Programme.
+    <br/><br/>
+    💬 Ask me about: Node.js, Flutter, or any related technologies I'm exploring.
 </div>
 
- <hr/>
- 
+<div align="center"> 
+    <a href="mailto:vinaykumarss904@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    </a>
+    <a href="https://www.linkedin.com/in/vinayakumarass/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://vinaya-kumarass.github.io/projects.github.io/VinayakumaraSS/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+    </a>
+</div>
+
+<hr/>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -48,11 +46,10 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+    <h2>🐍 My Contributions 🐍</h2>
+    <br>
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+    <br/><br/><br/>
 </div>
 
 <hr/>
@@ -60,10 +57,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+    <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    <br/>
+    <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
@@ -73,7 +70,22 @@
 <br/>
 
 <div align="center">
-<a href='https://vinaya-kumarass.github.io/projects.github.io/VinayakumaraSS/' target='_blank'><img height='64' style='border:0px;height:44px;' src='https://www.bing.com/images/search?view=detailV2&ccid=DvRi86EU&id=7F66CD49F476214688D3A385A380493C82885FF7&thid=OIP.DvRi86EUB0BhOhB7DVDy4AHaE8&mediaurl=https%3A%2F%2Fstatic.vecteezy.com%2Fti%2Fvetor-gratis%2Fp2%2F11824579-botao-visualizar-portfolio-balao-de-fala-veja-o-modelo-de-banner-da-web-de-portfolio-ilustracaoial-vetor.jpg&exph=1280&expw=1920&q=portfolio+banner&form=IRPRST&ck=BCA8C919DE60EB70AC74EF8B6C514410&selectedindex=16&itb=0&ajaxhist=0&ajaxserp=0&pivotparams=insightsToken%3Dccid_QiTcH%252Brc*cp_ED1425DE1CE83042497A95280EDEF89C*mid_38088CB38B008210A8504A04221CF1C70163F149*rcid_ED1425DE1CE83042497A95280EDEF89C*thid_OIP.QiTcH-rczrtGUezETH0sSAHaFL&rcid=BCA8C919DE60EB70AC74EF8B6C514410&vt=0&sim=11&ajaxhist=0&ajaxserp=0' /></a>
+    <a href='https://vinaya-kumarass.github.io/projects.github.io/VinayakumaraSS/' target='_blank'><img height='64' style='border:0px;height:44px;' src='https://www.bing.com/images/search?view=detailV2&ccid=DvRi86EU&id=7F66CD49F476214688D3A385A380493C82885FF7&thid=OIP.DvRi86EUB0BhOhB7DVDy4AHaE8&mediaurl=https%3A%2F%2Fstatic.vecteezy.com%2Fti%2Fvetor-gratis%2Fp2%2F11824579-botao-visualizar-portfolio-balao-de-fala-veja-o-modelo-de-banner-da-web-de-portfolio-ilustracaoial-vetor.jpg&exph=1280&expw=1920&q=portfolio+banner&form=IRPRST&ck=BCA8C919DE60EB70AC74EF8B6C514410&selectedindex=16&itb=0&ajaxhist=0&ajaxserp=0&pivotparams=insightsToken%3Dccid_QiTcH%252Brc*cp_ED1425DE1CE83042497A95280EDEF89C*mid_38088CB38B008210A8504A04221CF1C70163F149*rcid_ED1425DE1CE83042497A95280EDEF89C*thid_OIP.QiTcH-rczrtGUezETH0sSAHaFL&rcid=BCA8C919DE60EB70AC74EF8B6C514410&vt=0&sim=11&ajaxhist=0&ajaxserp=0' /></a>
+</div>
+
+<br/>
+
+<div align="center">
+    <h2>🏆 Competitive Programming 🏆</h2>
+    <a href="https://www.codechef.com/users/salesp07" target="_blank">
+        <img src="https://www.codechef.com/images/CC-Logo.png" alt="CodeChef" width="200"/>
+    </a>
+    <br/><br/>
+    <img src="https://cdn.codechef.com/sites/all/themes/abessive/images/codechef-logo.png" alt="CodeChef Logo" width="200"/>
+    <br/>
+    <a href="https://www.codechef.com/users/salesp07" target="_blank">
+        <img src="https://img.shields.io/badge/CodeChef-5C5C5C?style=for-the-badge&logo=codechef&logoColor=white" />
+    </a>
 </div>
 
 <br/>
