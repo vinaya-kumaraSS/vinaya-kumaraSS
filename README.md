@@ -16,7 +16,7 @@
     <br/><br/>
     🛠️ Skilled in C, Core Java, HTML5, CSS3, JavaScript, and Flutter. Experienced with Data Structures, databases, and soft skills from the Naandi Foundation’s Employability Skill Programme.
     <br/><br/>
-    💬 Ask me about: Node.js, Flutter, or related technologies.
+    💬 Ask me about: PHP, Flutter, or related technologies.
 </div>
 <br>
 
