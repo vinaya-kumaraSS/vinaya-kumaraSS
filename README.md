@@ -88,18 +88,6 @@
             <img src="https://img.shields.io/badge/CodeChef-5C5C5C?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge 3" width="150"/>
         </a>
     </div>
-    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-        <!-- Add more badges here as needed -->
-        <a href="https://www.codechef.com/users/salesp07" target="_blank">
-            <img src="https://img.shields.io/badge/CodeChef-5C5C5C?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge 4" width="150"/>
-        </a>
-        <a href="https://www.codechef.com/users/salesp07" target="_blank">
-            <img src="https://img.shields.io/badge/CodeChef-5C5C5C?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge 5" width="150"/>
-        </a>
-        <a href="https://www.codechef.com/users/salesp07" target="_blank">
-            <img src="https://img.shields.io/badge/CodeChef-5C5C5C?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge 6" width="150"/>
-        </a>
-    </div>
 </div>
 
 <br/>
