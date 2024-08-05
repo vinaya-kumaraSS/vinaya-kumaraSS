@@ -10,15 +10,11 @@
 <br/>
 
 <div align="center">
-    🚀 Passionate about technology and innovation, I'm a Bachelor of Engineering student at Alva’s Institute of Engineering and Technology, graduating in 2025.
+    🚀 Passionate software developer from India, graduating in 2025.
     <br/><br/>
-    🛠️ From mastering Data Structures to managing databases, I strive to blend theory with practical insight.
+    🛠️ Skilled in C, Core Java, HTML5, CSS3, JavaScript, and Flutter. Experienced with Data Structures, databases, and soft skills from the Naandi Foundation’s Employability Skill Programme.
     <br/><br/>
-    🖥️ Skilled in C and Core Java, with hands-on experience in HTML5, CSS3, JavaScript, and Flutter.
-    <br/><br/>
-    🌐 I've honed soft skills like communication, leadership, and teamwork through programs like the Naandi Foundation’s Employability Skill Programme.
-    <br/><br/>
-    💬 Ask me about: Node.js, Flutter, or any related technologies I'm exploring.
+    💬 Ask me about: Node.js, Flutter, or related technologies.
 </div>
 
 <div align="center"> 
