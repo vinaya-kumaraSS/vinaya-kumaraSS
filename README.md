@@ -70,14 +70,6 @@
 <br/>
 
 <div align="center">
-    <a href="https://vinaya-kumarass.github.io/projects.github.io/VinayakumaraSS/" target="_blank" style="display: inline-block; text-decoration: none; color: white; background-color: #FF5722; padding: 15px 30px; font-size: 16px; border-radius: 5px;">
-        Portfolio
-    </a>
-</div>
-
-<br/>
-
-<div align="center">
     <h2>🏆 Competitive Programming 🏆</h2>
     <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
         <a href="https://www.codechef.com/users/salesp07" target="_blank">
