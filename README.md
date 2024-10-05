@@ -61,11 +61,11 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<!-- <div align="center" style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 20px;">
     <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
     <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
     <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div> -->
+</div>
 
 <br/><br/>
 
@@ -73,20 +73,20 @@
 
 <br/>
 
-<div align="center">
-    <h2>🏆 Competitive Programming 🏆</h2>
-    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-        <div>
-            <img src="https://github.com/vinaya-kumaraSS/vinaya-kumaraSS/blob/main/postman%20API%20badge.png" alt="CodeChef Badge 3" width="150"/>
-            <img src="https://github.com/vinaya-kumaraSS/vinaya-kumaraSS/blob/main/Screenshot%202024-08-05%20232650.png" alt="CodeChef Badge 2" width="150"/>
-            <img src="https://github.com/vinaya-kumaraSS/vinaya-kumaraSS/blob/main/Screenshot%202024-08-05%20232704.png" alt="CodeChef Badge 2" width="150"/>
-        </div>
-        <div>
-            <img src="https://github.com/vinaya-kumaraSS/vinaya-kumaraSS/blob/main/Screenshot%202024-08-05%20211646.png" alt="CodeChef Badge 3" width="150"/>
-            <img src="https://github.com/vinaya-kumaraSS/vinaya-kumaraSS/blob/main/CodeChefBadge.png" alt="CodeChef Badge 1" width="150"/>
-            <img src="https://github.com/vinaya-kumaraSS/vinaya-kumaraSS/blob/main/CodeChefBadge%20(1).png" alt="CodeChef Badge 2" width="150"/>
-        </div>
-    </div>
-</div>
+<!-- <div align="center"> -->
+<!--     <h2>🏆 Competitive Programming 🏆</h2> -->
+<!--     <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;"> -->
+<!--         <div> -->
+<!--             <img src="https://github.com/vinaya-kumaraSS/vinaya-kumaraSS/blob/main/postman%20API%20badge.png" alt="CodeChef Badge 3" width="150"/> -->
+<!--             <img src="https://github.com/vinaya-kumaraSS/vinaya-kumaraSS/blob/main/Screenshot%202024-08-05%20232650.png" alt="CodeChef Badge 2" width="150"/> -->
+<!--             <img src="https://github.com/vinaya-kumaraSS/vinaya-kumaraSS/blob/main/Screenshot%202024-08-05%20232704.png" alt="CodeChef Badge 2" width="150"/> -->
+<!--         </div> -->
+<!--         <div> -->
+<!--             <img src="https://github.com/vinaya-kumaraSS/vinaya-kumaraSS/blob/main/Screenshot%202024-08-05%20211646.png" alt="CodeChef Badge 3" width="150"/> -->
+<!--             <img src="https://github.com/vinaya-kumaraSS/vinaya-kumaraSS/blob/main/CodeChefBadge.png" alt="CodeChef Badge 1" width="150"/> -->
+<!--             <img src="https://github.com/vinaya-kumaraSS/vinaya-kumaraSS/blob/main/CodeChefBadge%20(1).png" alt="CodeChef Badge 2" width="150"/> -->
+<!--         </div> -->
+<!--     </div> -->
+<!-- </div> -->
 
 <br/>
